@@ -12,6 +12,7 @@
         <module>stats-calculator</module>
         <module>simple-alert</module>
         <module>fizz-buzz</module>
+        <module>vending-machine</module>
     </modules>
 
 
