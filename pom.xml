@@ -13,6 +13,7 @@
         <module>simple-alert</module>
         <module>fizz-buzz</module>
         <module>vending-machine</module>
+        <module>new-position-notification</module>
     </modules>
 
 
